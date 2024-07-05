@@ -46,7 +46,7 @@ if "chat_session" not in st.session_state:
 st.title("ChatBot - Guilherme")
 
 # Add small text below the header
-st.markdown("Feito por 😎 [Guilherme](https://www.linkedin.com/in/guiborges77/)")
+st.markdown("Feito por 😎 [Guilherme](https://www.linkedin.com/in/guiborges7/)")
 
 # Display the chat history
 for message in st.session_state.chat_session.history:
