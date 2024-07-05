@@ -1,5 +1,9 @@
 # ChatBot Gemini
 
+## Acesse a aplicacao
+
+Para acessar a aplicação, clique [AQUI](https://chatbotguilherme.streamlit.app/).
+
 ## Passo a Passo para Rodar a Aplicação
 
 ### Clone o Repositório
