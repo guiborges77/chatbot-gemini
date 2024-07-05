@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/guilherme.oliveira/Documents/projetos/CHAT BOTZADA/GeminiPro-ChatBot/venv/bin/python3.12" "$0" "$@"
+'''exec' "/Users/guilherme.oliveira/Documents/projetos/ChatBot com GEMINI/venv/bin/python3.12" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re

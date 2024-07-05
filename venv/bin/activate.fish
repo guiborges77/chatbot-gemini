@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/guilherme.oliveira/Documents/projetos/CHAT BOTZADA/GeminiPro-ChatBot/venv"
+set -gx VIRTUAL_ENV "/Users/guilherme.oliveira/Documents/projetos/ChatBot com GEMINI/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
