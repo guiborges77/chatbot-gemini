@@ -8,7 +8,7 @@ load_dotenv()
 
 # Configure Streamlit page settings
 st.set_page_config(
-    page_title="ChatBot com Gemini",
+    page_title="MindBlower",
     page_icon=":alien:",  # Favicon emoji
     layout="centered",  # Page layout option
 )
@@ -43,7 +43,7 @@ if "chat_session" not in st.session_state:
     st.session_state.chat_session = model.start_chat(history=[])
 
 # Display the chatbot's title on the page
-st.title("ChatBot - Guilherme")
+st.title("MindBlower")
 
 # Add small text below the header
 st.markdown("Feito por 😎 [Guilherme](https://www.linkedin.com/in/guiborges7/)")
